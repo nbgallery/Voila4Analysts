@@ -1,0 +1,14 @@
+name: voila4analysts
+channels:
+  - conda-forge
+dependencies:
+  - ipympl
+  - ipywidgets
+  - jupyter_bokeh
+  - jupyter_contrib_nbextensions
+  - jupyterlab
+  - notebook
+  - pandas
+  - plotly
+  - voila=0.2
+  - pip
